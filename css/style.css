@@ -114,5 +114,5 @@ a:hover {
 }
 
 .projects-class{
-    height: 400%;
+    min-height: 400%;
 }
